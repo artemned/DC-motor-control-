@@ -4,6 +4,8 @@
 <img src=https://github.com/artemned/DC-motor-control-/blob/main/BoardImages/Motor_control_board_heatsink_2022-May-30_04-44-10PM-000_CustomizedView16701531518_jpg.jpg >
 <img src=https://github.com/artemned/DC-motor-control-/blob/main/BoardImages/Motor_control_board_heatsink_2022-May-30_05-08-07PM-000_CustomizedView11185319172_jpg.jpg >
 
+### *In the “DriverBoardCode” directory, in addition to the sources and the hex file of the firmware, there is also a zip file of the project, which was created using Microchip Studio.*
+
 ### *I use it for my own wood lathe, which is shown in the render in the “BoardImages” directory. The machine is called "Eaglet".*
 ## *The Eaglet looks like :*
 <img src=https://github.com/artemned/DC-motor-control-/blob/main/BoardImages/Eaglet%20v32.png >
